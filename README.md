@@ -34,7 +34,7 @@ https://agreeable-coast-0895e7a10.3.azurestaticapps.net
 ## Azure Technology Used:
 1.Static WebApp
 
-2.Containner
+2.Storage Account
 
 ## Web Server Used:
 1.HTML
